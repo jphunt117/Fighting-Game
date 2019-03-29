@@ -1,0 +1,7 @@
+C:\Users\Vadrikaan\Desktop\C# Projects\FightingGame\FightingGame\bin\Debug\FightingGame.exe.config
+C:\Users\Vadrikaan\Desktop\C# Projects\FightingGame\FightingGame\bin\Debug\FightingGame.exe
+C:\Users\Vadrikaan\Desktop\C# Projects\FightingGame\FightingGame\bin\Debug\FightingGame.pdb
+C:\Users\Vadrikaan\Desktop\C# Projects\FightingGame\FightingGame\obj\Debug\FightingGame.csprojAssemblyReference.cache
+C:\Users\Vadrikaan\Desktop\C# Projects\FightingGame\FightingGame\obj\Debug\FightingGame.csproj.CoreCompileInputs.cache
+C:\Users\Vadrikaan\Desktop\C# Projects\FightingGame\FightingGame\obj\Debug\FightingGame.exe
+C:\Users\Vadrikaan\Desktop\C# Projects\FightingGame\FightingGame\obj\Debug\FightingGame.pdb
